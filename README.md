@@ -5,7 +5,7 @@
 
 
 ## 👓: About Me:
-### I am Tahmid Shawn.
+### I am Mustafizur Rahman.
 I am a Front End developer currently on the lookout for exciting job opportunities. Despite not having completed my graduation yet, my enthusiasm for web development drives me to constantly learn and evolve.
 
 ### What I Bring to the Table:
