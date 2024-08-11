@@ -33,14 +33,14 @@ I'm excited about the prospect of contributing to innovative projects and collab
 
 ## :chart_with_upwards_trend: Current Stats
 <p align="center">
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=TahmidShawn&theme=ayu-mirage" />
+     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mustafizurm&theme=ayu-mirage" />
       <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafizurm&theme=aura_dark" alt="GitHub Profile Summary Cards">
        
 </p>
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahmidShawn&theme=aura_dark" alt="GitHub Profile Summary Cards for Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahmidShawn&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mustafizurm&theme=aura_dark" alt="GitHub Profile Summary Cards for Stats">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafizurm&theme=aura_dark&utcOffset=8" alt="GitHub Profile Summary Cards for Productive Time">
 </p>
 
 ## 👀: Projects
