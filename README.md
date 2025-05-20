@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mustafizurm.mustafizurm" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=200&duration=4000&lines=I'm+Mustafizur+Rahman!;Full-stack web-Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=200&duration=4000&lines=I'm+Mustafizur+Rahman!;Full-stack-web-Developer;" />
 </h1>
 
 
